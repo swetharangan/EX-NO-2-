@@ -167,11 +167,11 @@ if __name__ == "__main__":
 
 
 ```
-##output:
+## output:
 
 ![Screenshot 2025-05-22 113252](https://github.com/user-attachments/assets/3f5b5e73-daf9-4d32-ad56-c1107911b0cc)
 
 
-##Result:
+## Result:
 
 Thus the program is executed succesfully
